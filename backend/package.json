@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A crud with nodejs and express.js in flutter app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "mario agbanobi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
